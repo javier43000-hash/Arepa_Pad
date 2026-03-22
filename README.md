@@ -1,10 +1,17 @@
-# 🫓 Arepa_Pad - Mi Editor de Notas
+<div align="center">
+  <img src="arepa_pad.jpg" alt="Arepa Logo" width="300"/>
+  <h1>🫓 Arepa_Pad</h1>
+</div>
 
-Este es el segundo componente de mi portafolio en **"el abc del programador novato"**. Es un editor de texto minimalista creado en Python.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Status](https://img.shields.io/badge/Estado-Funcional-orange?style=for-the-badge)
 
-## 🧠 Lógica Aplicada
-- **Manejo de Archivos:** Apertura, edición y guardado de texto en el disco.
-- **Interfaz de Usuario:** Un diseño limpio para concentrarse en lo importante: escribir.
+### 📝 Descripción
+Un bloc de notas temático y ligero. Diseñado para capturar ideas, recetas o notas rápidas con una interfaz sencilla que no consume recursos de sistema.
+
+### 🚀 Características
+* **Escritura Directa:** Sin menús complicados.
+* **Estética Propia:** Un toque personal en cada nota.
+* **Bajo Consumo:** Ideal para dejarlo abierto mientras haces otras tareas.
 
 ---
-*Cocinando código, paso a paso.*
+> **Nota del autor:** Una herramienta simple que cumple su propósito sin complicaciones.
