@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="arepa_pad.jpg" alt="Arepa Logo" width="300"/>
+  <img src="Arepa_Pad.logo.png" alt="Arepa Logo" width="250"/>
   <h1>🫓 Arepa_Pad</h1>
 </div>
 
